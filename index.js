@@ -1,1 +1,1 @@
-export { default as archetype } from './src/archetype';
+export { default as archetypeConstant } from './src/constant';
